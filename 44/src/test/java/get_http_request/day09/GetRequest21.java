@@ -16,6 +16,7 @@ import static org.hamcrest.Matchers.equalTo;
 
 public class GetRequest21 extends JsonPlaceHolderBaseUrl {
 
+    
     /*
             https://jsonplaceholder.typicode.com/todos/2
             1) Status kodunun 200,
